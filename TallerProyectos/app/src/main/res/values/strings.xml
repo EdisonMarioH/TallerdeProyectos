@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TallerProyectos</string>
+    <string name="ic">Inicio de Seción</string>
+    <string name="txt1">Ingrese correo Electronico:</string>
+    <string name="txt2">Ingrese Contraseña:</string>
+    <string name="btn1">INGRESAR</string>
+    <string name="title_activity_principal">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Mi estado</string>
+    <string name="title_notifications">Notificaciones</string>
+
+</resources>
